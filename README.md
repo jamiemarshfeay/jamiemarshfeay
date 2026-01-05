@@ -2,7 +2,7 @@
 
 I'm an Economics graduate looking to retrain and pursue a career in tech. I recently began my retraining journey by completing the Northcoders Software Development Bootcamp in JavaScript. There I was introduced to full-stack development, first focusing on the fundamentals of JavaScript, then building back-end APIs using Node.js and Express, and subsequently front-end applications using React.
 
-I enjoy writing clean, test-driven code, and look forward developing my skills in this fascinating and ever-changing industry.  
+I enjoy writing clean, test-driven code, and look forward to developing my skills in this fascinating and ever-changing industry.  
 
 ---
 
