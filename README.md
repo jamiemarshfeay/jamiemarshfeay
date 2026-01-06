@@ -6,9 +6,18 @@ I enjoy writing clean, test-driven code, and look forward to developing my skill
 
 ---
 
-### 🛠️ Technologies Used
+### 🛠️ Technologies Used  
 
-JavaScript, Node.js, Express.js, React, Next.js, PostgreSQL, VSCode
+<div>
+  <img width="60" src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg" alt="JavaScript" title="JavaScript"/>
+  <img width="60" src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" alt="React" title="React"/>
+  <img width="60" src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/nextjs-dark.svg" alt="Next.js" title="Next.js"/>
+  <img width="60" src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/node.svg" alt="Node.js" title="Node.js"/>
+  <img width="60" src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/expressjs.svg" alt="Express.js" title="Express.js"/>
+  <img width="60" src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/postgressql-dark.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  <img width="60" src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/jestjs.svg" alt="Jest" title="Jest"/>
+  <img width="60" src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/vscode-dark.svg" alt="Visual Studio Code" title="Visual Studio Code"/>
+</div>
 
 <!--
 **jamiemarshfeay/jamiemarshfeay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
